@@ -1,4 +1,4 @@
-# Week 1 — Grammar: Present Perfect vs Past Simple & Stative Verbs
+# Week 1 — Grammar: Narrative Tenses & Advanced Aspect
 
 ## Theme: Understanding Emotions — Naming What You Feel
 
@@ -10,192 +10,205 @@
 
 ---
 
-## Part 1: Present Perfect vs Past Simple (B2 Depth)
+## Why This Lesson?
 
-### Why This Matters
+At B2, you already know the difference between Past Simple and Present Perfect. But do you make **natural, confident choices** in complex narratives? Can you use Past Perfect Continuous fluently? Do you know when to put stative verbs into continuous forms — and when that changes the meaning?
 
-Russian doesn't distinguish between these two tenses — both «Я написал письмо» and «Я уже написал письмо» use the same verb form. In English, the choice between Past Simple and Present Perfect carries real meaning about how you connect past events to the present.
-
-### The Core Difference
-
-| | Past Simple | Present Perfect |
-|---|---|---|
-| **Focus** | A completed action in the past | A past action with present relevance |
-| **Time** | Specific, finished time | Unspecified or continuing time |
-| **Signal words** | yesterday, last week, in 2020, when I was... | already, yet, ever, never, since, for, recently, just |
-| **Example** | I **felt** anxious during the exam. | I **have felt** anxious all day. |
-
-### B2-Level Nuances
-
-#### 1. Experience vs Specific Event
-- **Present Perfect:** *I**'ve experienced** panic attacks.* (general life experience — when doesn't matter)
-- **Past Simple:** *I **experienced** a panic attack last Tuesday.* (specific occasion)
-
-#### 2. Unfinished vs Finished Time Periods
-- *I **have felt** sad this week.* (the week is still going)
-- *I **felt** sad last week.* (last week is over)
-
-#### 3. Recent Events with Present Consequences
-- *She **has just realized** that she's been suppressing her anger.* (she knows it NOW)
-- *She **realized** she was angry and left the room.* (a completed narrative)
-
-#### 4. Duration Up to Now
-- *He **has struggled** with low self-esteem for years.* (still struggling)
-- *He **struggled** with low self-esteem as a teenager.* (no longer)
-
-### 🚫 Common Russian-Speaker Mistakes
-
-| Mistake | Why It Happens | Correct Version |
-|---------|---------------|-----------------|
-| ~~I have seen her yesterday.~~ | Russian doesn't require time-tense agreement | I **saw** her yesterday. |
-| ~~I already told you.~~ | In Russian, «уже сказал» feels complete | I**'ve** already told you. |
-| ~~I am living here for 5 years.~~ | Russian uses present tense for ongoing situations | I**'ve been living** here for 5 years. |
-| ~~I didn't see this film yet.~~ | «ещё не видел» feels like Past Simple | I **haven't seen** this film yet. |
+This lesson is about **nuance, naturalness, and precision** in how you talk about past experiences and ongoing emotional states.
 
 ---
 
-## Part 2: Stative Verbs
+## Part 1: Narrative Tenses — Choosing the Right One
 
-### What Are Stative Verbs?
+When telling a story or describing an emotional experience, English uses four past tenses in combination:
 
-Stative verbs describe **states** (feelings, thoughts, possession, senses) rather than actions. They are usually **NOT used in continuous forms**.
+| Tense | Function in Narrative | Example |
+|-------|----------------------|---------|
+| **Past Simple** | Main events, the "backbone" of the story | She **walked** into the therapist's office and **sat** down. |
+| **Past Continuous** | Background, atmosphere, actions in progress | The rain **was falling**. Her hands **were shaking**. |
+| **Past Perfect** | Events BEFORE the main narrative | She **had never spoken** about her childhood before that day. |
+| **Past Perfect Continuous** | Extended actions/situations BEFORE the main narrative | She **had been suppressing** her emotions for years before she finally broke down. |
 
-### Key Stative Verbs for Psychology & Emotions
+### Past Perfect Continuous — The C1 Upgrade
 
-| Category | Verbs |
-|----------|-------|
-| **Emotions** | love, hate, like, dislike, fear, envy, want, wish, prefer |
-| **Mental states** | know, believe, understand, realize, remember, forget, recognize, suppose, doubt, imagine |
-| **Perception** | see, hear, smell, taste, feel (= opinion) |
-| **Possession** | have, own, belong, possess |
-| **Other** | seem, appear, mean, matter, need, deserve, consist of |
+This is the tense B2 learners underuse. It emphasizes the **duration and ongoing nature** of an action that led up to a key moment.
 
-### The Rule
-❌ ~~I am understanding my emotions better now.~~
-✅ I **understand** my emotions better now.
+| Past Perfect (completed before) | Past Perfect Continuous (ongoing before) |
+|------|------|
+| She **had read** three self-help books. (completed — 3 books) | She **had been reading** about psychology for months. (ongoing process) |
+| He **had decided** to see a therapist. (single decision) | He **had been thinking** about therapy for a long time. (extended process) |
+| I **had tried** meditation. (I did it — fact) | I **had been trying** to meditate regularly, but I kept forgetting. (struggling over time) |
 
-❌ ~~She is believing that therapy helps.~~
-✅ She **believes** that therapy helps.
+### Combining All Four in a Narrative
 
-### The Exception: When Stative Verbs Become Active
+> *She **had been feeling** anxious for weeks, though she **hadn't told** anyone. Every morning, she **would wake** up with a tightness in her chest. That Tuesday, she **was sitting** in a café when something shifted. She **picked** up her phone and **called** the therapist her friend **had recommended**. By the time she **arrived** at the office, her heart **was pounding**, but she **knew** — she **had been avoiding** this moment for too long.*
 
-Some stative verbs CAN be used in continuous when their meaning shifts to an **action**:
+Notice how each tense has a specific job:
+- **Past Perfect Continuous** (*had been feeling, had been avoiding*) = extended prior situations
+- **Past Perfect** (*hadn't told, had recommended*) = completed prior events
+- **Past Continuous** (*was sitting, was pounding*) = background/atmosphere
+- **Past Simple** (*picked up, called, arrived, knew*) = main story events
 
-| Stative (state) | Active (action) |
-|-----------------|-----------------|
-| I **think** this is important. (opinion) | I**'m thinking** about my feelings. (process) |
-| She **has** a good therapist. (possession) | She**'s having** a session now. (experience) |
-| I **see** what you mean. (understand) | I**'m seeing** a therapist. (meeting regularly) |
-| This soup **tastes** good. (characteristic) | She**'s tasting** the soup. (action) |
-| I **feel** this is wrong. (opinion) | I**'m feeling** better today. (changing state)* |
+---
 
-*Note: "feel" is a special case — both "I feel sad" and "I'm feeling sad" are acceptable, but "I'm feeling sad" emphasizes that it's temporary/changing.
+## Part 2: Stative Verbs in Continuous — When It Changes the Meaning
+
+At B2, you learned that stative verbs (know, believe, understand, etc.) don't go in continuous forms. At C1, you learn the **exceptions and nuances**:
+
+### Verbs That Change Meaning in Continuous
+
+| Stative (state) | Active/Dynamic (process) |
+|-----------------|--------------------------|
+| I **think** this is important. *(opinion)* | I**'m thinking** about what you said. *(mental process)* |
+| She **has** a good therapist. *(possession)* | She**'s having** a difficult session. *(experiencing)* |
+| I **see** what you mean. *(understand)* | I**'m seeing** a therapist twice a week. *(meeting regularly)* |
+| This **tastes** bitter. *(characteristic)* | She**'s tasting** the medicine. *(deliberate action)* |
+| He **appears** confident. *(seems)* | He**'s appearing** in court tomorrow. *(scheduled event)* |
+| I **feel** this is wrong. *(opinion)* | I**'m feeling** much better today. *(changing state)* |
+
+### Advanced: Stative Verbs in Continuous for Emphasis/Temporariness
+
+In modern English, some traditionally stative verbs ARE used in continuous to show a **temporary, intense, or changing state**. This is C1-level awareness:
+
+- *I**'m loving** this book.* ✅ (emphasis on current enthusiasm — informal)
+- *She**'s understanding** more about herself every day.* ✅ (gradual process)
+- *I**'m not believing** this!* ✅ (emotional emphasis — very informal)
+- *He**'s being** very defensive today.* ✅ (temporary behavior, not permanent trait)
+
+Compare:
+- *He **is** defensive.* (personality trait — always)
+- *He **is being** defensive.* (behaving this way right now — temporary)
+
+---
+
+## Part 3: "Would" and "Used to" for Past Habits (C1 Precision)
+
+Both describe past habits, but they're NOT interchangeable:
+
+| | used to | would |
+|---|---------|-------|
+| Past habits/repeated actions | ✅ I **used to** journal every morning. | ✅ I **would** journal every morning. |
+| Past states | ✅ I **used to** be anxious. | ❌ ~~I would be anxious.~~ |
+| First mention in narrative | ✅ Better for introducing | ❌ Feels abrupt without context |
+
+**Rule:** "Would" for repeated past **actions** only (not states). "Used to" for both actions and states.
+
+**In narrative writing:**
+> *I **used to be** terrified of confrontation. Whenever someone raised their voice, I **would** freeze. I **would** feel my heart race, and I **would** leave the room without saying a word.*
+
+(First sentence: "used to be" = past state. Following sentences: "would" = repeated actions in that period.)
+
+---
+
+## 🚫 Common Russian-Speaker Mistakes at B2→C1
+
+| Mistake | Why | Correct |
+|---------|-----|---------|
+| ~~She was suppressing her emotions for years before therapy.~~ | Extended prior action needs Past Perfect Continuous | She **had been suppressing** her emotions for years. |
+| ~~I would be very shy as a child.~~ | "Would" can't be used with states | I **used to be** very shy as a child. |
+| ~~He is being intelligent.~~ | "Being" implies temporary behavior, not permanent traits | He **is** intelligent. (trait) |
+| ~~I already have told you.~~ | Word order with adverbs in perfect tenses | I **have already told** you. |
+| ~~When I was arriving, she was already left.~~ | "Arrive" is a momentary action (no continuous); "already left" needs Perfect | When I **arrived**, she **had already left**. |
 
 ---
 
 ## Exercises
 
-### Exercise 1: Choose the Correct Tense (Present Perfect or Past Simple)
+### Exercise 1: Fill in with the Correct Narrative Tense
 
-1. I _______ (never / experience) such deep sadness before.
-2. She _______ (start) therapy in September 2024.
-3. He _______ (feel) anxious ever since he _______ (lose) his job.
-4. We _______ (discuss) our emotions at yesterday's group session.
-5. _______ you ever _______ (try) to name your feelings out loud?
-6. I _______ (not sleep) well last night because of worry.
-7. She _______ (already / make) significant progress in understanding her anger.
-8. They _______ (get) married in 2019, but they _______ (not resolve) their communication issues yet.
+Complete this narrative using Past Simple, Past Continuous, Past Perfect, or Past Perfect Continuous:
+
+That evening, I (1)_______ (sit) alone in my apartment, staring at the wall. I (2)_______ (feel) numb for weeks. The previous month, I (3)_______ (lose) my job, and I (4)_______ (not tell) anyone about it yet. My phone (5)_______ (ring) — it was my sister. She (6)_______ (try) to reach me for days, but I (7)_______ (ignore) her calls. "I (8)_______ (worry) about you," she said. Something in her voice (9)_______ (break) through my walls. I (10)_______ (realize) I (11)_______ (avoid) everyone because I (12)_______ (be) ashamed.
 
 <details>
 <summary>✅ Answers</summary>
 
-1. I **have never experienced** such deep sadness before.
-2. She **started** therapy in September 2024.
-3. He **has felt** anxious ever since he **lost** his job.
-4. We **discussed** our emotions at yesterday's group session.
-5. **Have** you ever **tried** to name your feelings out loud?
-6. I **didn't sleep** well last night because of worry.
-7. She **has already made** significant progress in understanding her anger.
-8. They **got** married in 2019, but they **haven't resolved** their communication issues yet.
+1. **was sitting** (background)
+2. **had been feeling** (extended prior state)
+3. **had lost** (event before the narrative)
+4. **hadn't told** (completed — hadn't done it yet)
+5. **rang** (main event)
+6. **had been trying** (extended prior action)
+7. **had been ignoring** / **had ignored** (prior action)
+8. **'ve been worrying** / **have been worrying** (direct speech — present perfect continuous)
+9. **broke** (main event)
+10. **realized** (main event)
+11. **had been avoiding** (extended prior action)
+12. **was** (state) — or **had been** (prior state)
 </details>
 
-### Exercise 2: Stative or Active? Choose the Correct Form
+### Exercise 2: Stative or Dynamic? Choose Correctly
 
-1. I _______ (think) about what my therapist said. [process]
-2. I _______ (think) she's right about my avoidance patterns. [opinion]
-3. He _______ (have) trouble managing his anger lately. [experience]
-4. She _______ (have) a very supportive family. [possession]
-5. I _______ (see) a counselor every Thursday. [meeting]
-6. I _______ (see) your point about emotional awareness. [understand]
+1. He _______ (be) really difficult today — I don't know what's wrong. [temporary behavior]
+2. I _______ (think) we should discuss this more carefully. [opinion]
+3. She _______ (see) a psychologist about her anxiety. [meeting regularly]
+4. The therapy _______ (appear) to be working. [seems]
+5. I _______ (feel) increasingly confident since starting the course. [changing state]
+6. He _______ (have) a breakdown in the middle of the session. [experiencing]
 
 <details>
 <summary>✅ Answers</summary>
 
-1. I **am thinking / 'm thinking** about what my therapist said.
-2. I **think** she's right about my avoidance patterns.
-3. He **has been having / is having** trouble managing his anger lately.
-4. She **has** a very supportive family.
-5. I **am seeing / 'm seeing** a counselor every Thursday.
-6. I **see** your point about emotional awareness.
+1. **is being** (temporary behavior)
+2. **think** (opinion — stative)
+3. **is seeing** (meeting regularly)
+4. **appears** (seems — stative)
+5. **'m feeling** / **feel** (both OK — "feeling" emphasizes change)
+6. **had / was having** (experiencing — context-dependent)
 </details>
 
-### Exercise 3: Error Correction
+### Exercise 3: "Used to" or "Would"?
 
-Find and fix the mistakes:
-
-1. I have met my therapist last Wednesday.
-2. She is knowing exactly how she feels about it.
-3. We are together since 2018.
-4. I am understanding now why I react that way.
-5. He has went through a very difficult period.
-6. I didn't have never experienced grief until my grandmother died.
+1. I _______ be terrified of expressing my feelings.
+2. Every evening, I _______ sit and write in my journal.
+3. She _______ have very low self-esteem as a teenager.
+4. He _______ always avoid emotional conversations.
+5. We _______ live in a small town where nobody talked about mental health.
 
 <details>
 <summary>✅ Answers</summary>
 
-1. I **met** my therapist last Wednesday. (specific past time → Past Simple)
-2. She **knows** exactly how she feels about it. (know = stative)
-3. We **have been** together since 2018. (since → Present Perfect)
-4. I **understand** now why I react that way. (understand = stative)
-5. He **has gone** through a very difficult period. (past participle of "go" = gone)
-6. I **had never experienced** grief until my grandmother died. (double negative; Past Perfect + until + Past Simple)
+1. **used to** (state)
+2. **used to / would** (repeated action — both work)
+3. **used to** (state)
+4. **used to / would** (repeated action — both work)
+5. **used to** (state — "live" is a state here)
 </details>
 
 ### Exercise 4: Translate from Russian
 
-Translate these sentences into English, paying attention to tense choice:
-
-1. Я никогда не чувствовал такого спокойствия.
-2. Она начала ходить к психологу в прошлом году.
-3. Я понимаю, почему ты злишься.
-4. Он грустит с тех пор, как переехал.
-5. Ты когда-нибудь пробовал медитацию?
+1. Она подавляла свои эмоции годами, прежде чем наконец обратилась к терапевту.
+2. Он вёл себя странно в последнее время — раньше он таким не был.
+3. Я тогда не понимал, что происходит — я просто чувствовал, что что-то не так.
+4. Раньше я был очень замкнутым. Каждый раз, когда кто-то задавал личный вопрос, я менял тему.
+5. К тому моменту, как я осознал свою тревогу, она уже влияла на все сферы моей жизни.
 
 <details>
 <summary>✅ Answers</summary>
 
-1. I have never felt such calmness / peace. (life experience → Present Perfect)
-2. She started seeing a psychologist / going to therapy last year. (specific past time → Past Simple)
-3. I understand why you're angry. (stative verb → simple form)
-4. He has been sad / has felt sad ever since he moved. (since → Present Perfect)
-5. Have you ever tried meditation? (life experience → Present Perfect)
+1. She **had been suppressing** her emotions for years before she finally saw a therapist.
+2. He **has been acting** strangely lately — he didn't **use to be** like this. / He **'s being** strange lately — he **used to be** different.
+3. I **didn't understand** what was happening at the time — I just **felt** that something was wrong.
+4. I **used to be** very withdrawn. Every time someone **asked** a personal question, I **would** change the subject.
+5. By the time I **recognized / became aware of** my anxiety, it **had already been affecting** every area of my life.
 </details>
 
 ### Exercise 5: Contextual Writing
 
-Write 5 sentences about your own emotional experiences using:
-- At least 2 sentences with Present Perfect
-- At least 2 sentences with Past Simple
-- At least 1 stative verb used correctly
+Write a paragraph (80–120 words) describing an emotional experience or realization, using:
+- At least 1 Past Perfect Continuous
+- At least 1 Past Continuous for atmosphere
+- Past Simple for main events
+- "Used to" or "would" for past habits
 
-**Example:** *I have always been interested in understanding my emotions. When I was younger, I didn't know how to name what I felt. I believe that emotional awareness is the first step toward personal growth.*
+**Prompt:** *Describe a moment when you realized something important about your own emotions or behavior patterns.*
 
 ---
 
 ## Key Takeaways
 
-1. **Present Perfect** = past action with present relevance, unspecified time, or ongoing situations
-2. **Past Simple** = completed action at a specific past time
-3. **Stative verbs** describe states, not actions — don't use continuous forms with them
-4. Some verbs (think, have, see, feel) can be both stative and active — the meaning changes
-5. Russian speakers: watch out for «уже» (already → Present Perfect), «с тех пор как» (since → Present Perfect), and specific time markers (→ Past Simple)
+1. **Past Perfect Continuous** is your C1 upgrade — use it for extended situations BEFORE the main story
+2. Combine all four past tenses naturally in narratives: each has a specific role
+3. Some stative verbs CAN be continuous when the meaning shifts (think, see, have, feel, be)
+4. "He is being difficult" ≠ "He is difficult" — one is temporary behavior, the other is a trait
+5. "Would" = past repeated actions only; "used to" = actions AND states

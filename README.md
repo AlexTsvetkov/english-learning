@@ -1,6 +1,6 @@
 # English Improvement Course: Psychology & Personal Growth
 
-## 12-Week B1→B2+/C1 Course for Russian Speakers
+## 12-Week B2→C1 Course for Russian Speakers
 
 A comprehensive English course combining **grammar**, **vocabulary**, and **essay writing** — all centered around psychology, mental health, emotions, and personal growth.
 
@@ -30,18 +30,18 @@ Each week contains 3 modules:
 
 | Week | Theme | Grammar | Writing Skill |
 |------|-------|---------|---------------|
-| 1 | Understanding Emotions | Present Perfect vs Past Simple; Stative verbs | Essay structure & thesis statements |
-| 2 | The Inner Critic | Reported speech & reporting verbs | Paragraph structure |
-| 3 | Relationships & Boundaries | Second, Third & Mixed conditionals | Expressing opinions |
-| 4 | Stress & Anxiety | Modals for speculation & deduction | Cause & effect language |
-| 5 | Motivation & Habits | Gerunds vs Infinitives (advanced) | Compare & contrast |
-| 6 | Trauma & Resilience | Passive voice (advanced) | Narrative techniques |
-| 7 | Empathy & Emotional Intelligence | Relative clauses (advanced) | Formal vs informal register |
-| 8 | Therapy Approaches | Wish/If only & Subjunctive | Hedging & cautious language |
+| 1 | Understanding Emotions | Narrative tenses & advanced aspect | Essay structure & thesis statements |
+| 2 | The Inner Critic | Advanced reported speech & reporting verbs | Paragraph structure |
+| 3 | Relationships & Boundaries | Mixed conditionals & alternatives to "if" | Expressing opinions |
+| 4 | Stress & Anxiety | Modal perfects for speculation & regret | Cause & effect language |
+| 5 | Motivation & Habits | Advanced gerunds/infinitives & nominal clauses | Compare & contrast |
+| 6 | Trauma & Resilience | Advanced passive & causative | Narrative techniques |
+| 7 | Empathy & Emotional Intelligence | Cleft sentences & advanced relative clauses | Formal vs informal register |
+| 8 | Therapy Approaches | Formal subjunctive, wish/if only | Hedging & cautious language |
 | 9 | Self-Esteem & Identity | Inversion for emphasis | Cohesion & linking |
-| 10 | Grief & Acceptance | Participle clauses | Persuasive writing |
-| 11 | Purpose & Meaning | Advanced connectors & discourse markers | Introductions & conclusions |
-| 12 | Your Growth Narrative | Review & consolidation | Self-editing & revision |
+| 10 | Grief & Acceptance | Participle clauses (present, past, perfect) | Persuasive writing |
+| 11 | Purpose & Meaning | Discourse markers, ellipsis, fronting | Introductions & conclusions |
+| 12 | Your Growth Narrative | Review, error correction & style refinement | Self-editing & revision |
 
 ---
 

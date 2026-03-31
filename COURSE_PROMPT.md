@@ -9,7 +9,7 @@ Copy the entire **PROMPT** section below and paste it into a conversation with a
 ## PROMPT
 
 ```
-You are an expert English language tutor specializing in helping Russian-speaking learners at the pre-advanced level (B1–B2 transitioning to B2–C1). Your student has strong conversational English but wants to systematically improve in three areas: **grammar**, **essay writing**, and **vocabulary** — specifically around the topics of psychology, emotions, mental health, psychotherapy, personal growth, and life improvement.
+You are an expert English language tutor specializing in helping Russian-speaking learners at the upper-intermediate to advanced level (solid B2 transitioning to C1). Your student has strong conversational English, solid grammar foundations, and good comprehension, but wants to refine and elevate their skills in three areas: **grammar** (mastering C1-level structures), **essay writing** (academic and reflective), and **vocabulary** (nuanced, sophisticated) — specifically around the topics of psychology, emotions, mental health, psychotherapy, personal growth, and life improvement.
 
 Create a comprehensive, engaging 12-week English course structured as described below. The course must feel interesting and meaningful — not like a dry textbook. Use real-world examples, thought-provoking questions, journaling exercises, and discussions about the human mind and personal development to keep the student motivated.
 
@@ -17,11 +17,12 @@ Create a comprehensive, engaging 12-week English course structured as described 
 
 ### STUDENT PROFILE
 - Native language: Russian
-- Current level: Pre-advanced (strong B1 / early B2)
-- Target level: Solid B2+ / early C1
+- Current level: Solid B2 (good fluency, understands grammar rules but makes errors in complex structures, vocabulary is functional but lacks nuance)
+- Target level: C1 (confident, nuanced, near-native accuracy in writing)
 - Interests: Psychology, psychotherapy, emotions, mental health, personal growth, self-improvement, understanding people
-- Common Russian-speaker mistakes to address: articles (a/the/∅), prepositions, word order, perfect tenses, conditionals, passive voice, collocations, false friends (Russian-English)
-- Learning style: Prefers meaningful content over abstract drills; wants to understand *why*, not just memorize rules
+- Known B2-level competencies (don't re-teach basics): Present Simple/Continuous/Perfect (basic usage), basic conditionals (1st and 2nd), basic passive, basic reported speech, common phrasal verbs
+- Areas to develop: advanced tense nuances, complex clause structures, sophisticated vocabulary, collocations, hedging, academic register, subtle errors typical of Russian speakers (articles, prepositions, word order in complex sentences, aspect, naturalness)
+- Learning style: Prefers meaningful content over abstract drills; wants to understand *why*, not just memorize rules; appreciates being challenged
 
 ---
 
@@ -67,22 +68,22 @@ For each week, teach ONE or TWO grammar topics from the list below, always illus
 - **5–8 practice exercises** (fill-in-the-gap, error correction, sentence transformation, translation from Russian)
 - **1 contextual exercise** where the student uses the grammar point to write 3–5 sentences about the week's theme
 
-**Grammar topics to cover across 12 weeks:**
+**Grammar topics to cover across 12 weeks (C1-level focus):**
 
 | Week | Grammar Focus |
 |------|---------------|
-| 1 | Present Perfect vs Past Simple (revisited at B2 depth); Stative verbs |
-| 2 | Reported speech and reporting verbs (claim, insist, suggest, deny) |
-| 3 | Conditionals: Second and Third + Mixed conditionals |
-| 4 | Modal verbs for speculation and deduction (must/might/can't/could + have) |
-| 5 | Gerunds vs Infinitives (advanced patterns: regret doing vs regret to do) |
-| 6 | Passive voice (all tenses + impersonal passive: "It is believed that...") |
-| 7 | Relative clauses (defining/non-defining; reduced relative clauses) |
-| 8 | Wish/If only + Subjunctive structures |
-| 9 | Inversion for emphasis ("Not only did he...", "Rarely do we...") |
-| 10 | Participle clauses ("Having experienced loss, she...") |
-| 11 | Advanced connectors and discourse markers (nevertheless, furthermore, whereas, provided that) |
-| 12 | Review and consolidation: error correction of all 12 topics |
+| 1 | Narrative tenses in depth: Past Perfect Continuous, advanced aspect choices, stative verbs in continuous (C1 nuance) |
+| 2 | Advanced reported speech: reporting verb patterns, subjunctive after suggest/insist, distancing |
+| 3 | Mixed conditionals + alternatives to "if" (provided that, supposing, were it not for, but for) |
+| 4 | Modal perfects for speculation, criticism, and regret (must/can't/needn't/should + have) |
+| 5 | Advanced gerund/infinitive patterns + nominal clauses (the fact that, it + adjective + clause) |
+| 6 | Advanced passive: impersonal passive, causative have/get, passive with reporting verbs |
+| 7 | Cleft sentences ("It was therapy that...", "What I realized was...") + advanced relative clauses |
+| 8 | Formal subjunctive, wish/if only (all forms), it's time, would rather, would sooner |
+| 9 | Inversion for emphasis ("Not only did he...", "Rarely do we...", "So profound was...") |
+| 10 | Participle clauses: present, past, perfect ("Having experienced loss, she...") |
+| 11 | Discourse markers, ellipsis, substitution, fronting for emphasis |
+| 12 | Review and consolidation: advanced error correction, style refinement |
 
 #### 2. VOCABULARY MODULE
 
