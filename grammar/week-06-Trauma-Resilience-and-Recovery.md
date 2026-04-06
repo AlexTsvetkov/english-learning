@@ -118,11 +118,11 @@ Rewrite using "It is + past participle + that..." or "Subject + is + past partic
 
 ### Exercise 3: Error Correction
 
-1. The survivors were being helped and they have been given support.
-2. It is widely believed, that trauma can be healed.
-3. She has been said to be one of the most resilient people.
-4. New therapies are been developed right now.
-5. People are known that they can overcome trauma.
+1. ❌ ~~The survivors were being helped and they have been given support.~~
+2. ❌ ~~It is widely believed, that trauma can be healed.~~
+3. ❌ ~~She has been said to be one of the most resilient people.~~
+4. ❌ ~~New therapies are been developed right now.~~
+5. ❌ ~~People are known that they can overcome trauma.~~
 
 <details><summary>✅ Answers</summary>
 1. The survivors **were helped** and **were given** support. (OR: have been helped and have been given)

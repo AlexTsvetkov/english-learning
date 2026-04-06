@@ -96,11 +96,11 @@ Used when you want someone else to do something:
 
 | Mistake | Correct |
 |---------|---------|
-| ~~I wish I can change.~~ | I wish I **could** change. |
-| ~~I wish I would go to therapy.~~ | I wish I **could/would** go... (usually "could") |
-| ~~If only I knew it before.~~ (past meaning) | If only I **had known** it before. |
-| ~~It's time to I started therapy.~~ | It's time I **started** therapy. (no "to") |
-| ~~I'd rather you don't come.~~ | I'd rather you **didn't** come. |
+| ❌ ~~I wish I can change.~~ | I wish I **could** change. |
+| ❌ ~~I wish I would go to therapy.~~ | I wish I **could/would** go... (usually "could") |
+| ❌ ~~If only I knew it before.~~ (past meaning) | If only I **had known** it before. |
+| ❌ ~~It's time to I started therapy.~~ | It's time I **started** therapy. (no "to") |
+| ❌ ~~I'd rather you don't come.~~ | I'd rather you **didn't** come. |
 
 ---
 

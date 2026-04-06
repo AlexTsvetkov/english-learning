@@ -59,10 +59,10 @@ After the negative/restrictive phrase, use **question word order**:
 
 | Mistake | Correct |
 |---------|---------|
-| ~~Never I have felt so authentic.~~ | **Never have I** felt so authentic. |
-| ~~Not only she discovered her identity...~~ | **Not only did she** discover her identity... |
-| ~~Hardly he had started when...~~ | **Hardly had he** started when... |
-| ~~Only when she stopped pretending she found peace.~~ | Only when she stopped pretending **did she** find peace. |
+| ❌ ~~Never I have felt so authentic.~~ | **Never have I** felt so authentic. |
+| ❌ ~~Not only she discovered her identity...~~ | **Not only did she** discover her identity... |
+| ❌ ~~Hardly he had started when...~~ | **Hardly had he** started when... |
+| ❌ ~~Only when she stopped pretending she found peace.~~ | Only when she stopped pretending **did she** find peace. |
 
 ---
 

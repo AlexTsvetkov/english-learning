@@ -135,11 +135,11 @@ Complete with mixed conditional forms:
 
 ### Exercise 3: Error Correction
 
-1. If I would be more patient, my relationships would be better.
-2. If she would have set boundaries, she wouldn't burned out.
-3. If I knew about attachment theory earlier, I would understand my patterns better now.
-4. If he didn't grew up with criticism, he would be more confident.
-5. If they would communicate honestly, they might still be together.
+1. ❌ ~~If I would be more patient, my relationships would be better.~~
+2. ❌ ~~If she would have set boundaries, she wouldn't burned out.~~
+3. ❌ ~~If I knew about attachment theory earlier, I would understand my patterns better now.~~
+4. ❌ ~~If he didn't grew up with criticism, he would be more confident.~~
+5. ❌ ~~If they would communicate honestly, they might still be together.~~
 
 <details>
 <summary>✅ Answers</summary>

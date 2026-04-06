@@ -119,11 +119,11 @@ Complete with the correct form:
 
 ### Exercise 3: Error Correction
 
-1. She must to be very anxious about the interview.
-2. He mustn't be happy — look at his face.
-3. They should have been stressed during the exam. (meaning: they were probably stressed)
-4. She can have forgotten about the appointment.
-5. He could be worried yesterday about his results.
+1. ❌ ~~She must to be very anxious about the interview.~~
+2. ❌ ~~He mustn't be happy — look at his face.~~
+3. ❌ ~~They should have been stressed during the exam.~~ (meaning: they were probably stressed)
+4. ❌ ~~She can have forgotten about the appointment.~~
+5. ❌ ~~He could be worried yesterday about his results.~~
 
 <details>
 <summary>✅ Answers</summary>

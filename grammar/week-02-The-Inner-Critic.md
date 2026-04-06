@@ -49,9 +49,9 @@ At B2 level, you should know that tense shift is **optional** when:
 | this → that | "I feel **this** is wrong" → She said she felt **that** was wrong |
 | here → there | "I feel safe **here**" → He said he felt safe **there** |
 | today → that day | "I'm anxious **today**" → She said she was anxious **that day** |
-| tomorrow → the next day | — |
-| yesterday → the day before | — |
-| now → then / at that point | — |
+| tomorrow → the next day | "I'll try **tomorrow**" → He said he would try **the next day** |
+| yesterday → the day before | "I cried **yesterday**" → She said she had cried **the day before** |
+| now → then / at that point | "I feel lost **now**" → He said he felt lost **then** |
 | ago → before / earlier | "**two years ago**" → **two years before** |
 
 ---
@@ -162,12 +162,12 @@ Fill in with the most appropriate verb: *claimed, denied, admitted, insisted, su
 
 Find and fix the mistakes:
 
-1. She suggested me to see a therapist.
-2. He denied that he wasn't jealous.
-3. The therapist said me that self-criticism is normal.
-4. She insisted to come to the session alone.
-5. He convinced me that I should to take a break.
-6. She blamed herself for that she failed.
+1. ❌ ~~She suggested me to see a therapist.~~
+2. ❌ ~~He denied that he wasn't jealous.~~
+3. ❌ ~~The therapist said me that self-criticism is normal.~~
+4. ❌ ~~She insisted to come to the session alone.~~
+5. ❌ ~~He convinced me that I should to take a break.~~
+6. ❌ ~~She blamed herself for that she failed.~~
 
 <details>
 <summary>✅ Answers</summary>

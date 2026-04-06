@@ -143,12 +143,12 @@ Choose the correct form and explain the meaning:
 
 ### Exercise 3: Error Correction
 
-1. She suggested me to try a new routine.
-2. I enjoy to read about psychology before bed.
-3. He wants that I change my habits.
-4. I'm tired to wait for motivation.
-5. She succeeded to quit smoking.
-6. He avoids to discuss his lack of discipline.
+1. ❌ ~~She suggested me to try a new routine.~~
+2. ❌ ~~I enjoy to read about psychology before bed.~~
+3. ❌ ~~He wants that I change my habits.~~
+4. ❌ ~~I'm tired to wait for motivation.~~
+5. ❌ ~~She succeeded to quit smoking.~~
+6. ❌ ~~He avoids to discuss his lack of discipline.~~
 
 <details><summary>✅ Answers</summary>
 1. She suggested **trying** a new routine. / She suggested **that I try**...

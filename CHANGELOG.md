@@ -9,6 +9,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 - `CLAUDE.md` — project instructions for AI assistants
 
+### Fixed
+- Filled missing examples in Week 2 grammar "Changes Beyond Tenses" table (tomorrow, yesterday, now)
+- Marked all incorrect sentences in error correction exercises with ❌ + ~~strikethrough~~ for clear visual distinction (grammar weeks 2–6, 8–9, mid-course check)
+
 ## [1.1.0] — 2026-03-31
 
 ### Changed
