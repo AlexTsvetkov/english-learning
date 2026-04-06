@@ -71,10 +71,10 @@ This is the key B2 structure. It's used in formal/academic English to report bel
 
 | Mistake | Correct |
 |---------|---------|
-| ~~It is considered, that trauma is serious.~~ (comma) | It is considered **that** trauma is serious. (no comma) |
-| ~~People are thought that they can recover.~~ | It is thought **that** people can recover. / People **are thought to** recover. |
-| ~~She has been said to be a survivor.~~ | She **is said** to be a survivor. (present passive for current belief) |
-| ~~The research was been completed.~~ | The research **has been** completed. |
+| ❌ It is considered, that trauma is serious. (comma) | It is considered **that** trauma is serious. (no comma) |
+| ❌ People are thought that they can recover. | It is thought **that** people can recover. / People **are thought to** recover. |
+| ❌ She has been said to be a survivor. | She **is said** to be a survivor. (present passive for current belief) |
+| ❌ The research was been completed. | The research **has been** completed. |
 
 ---
 
@@ -118,11 +118,11 @@ Rewrite using "It is + past participle + that..." or "Subject + is + past partic
 
 ### Exercise 3: Error Correction
 
-1. ❌ ~~The survivors were being helped and they have been given support.~~
-2. ❌ ~~It is widely believed, that trauma can be healed.~~
-3. ❌ ~~She has been said to be one of the most resilient people.~~
-4. ❌ ~~New therapies are been developed right now.~~
-5. ❌ ~~People are known that they can overcome trauma.~~
+1. ❌ The survivors were being helped and they have been given support.
+2. ❌ It is widely believed, that trauma can be healed.
+3. ❌ She has been said to be one of the most resilient people.
+4. ❌ New therapies are been developed right now.
+5. ❌ People are known that they can overcome trauma.
 
 <details><summary>✅ Answers</summary>
 1. The survivors **were helped** and **were given** support. (OR: have been helped and have been given)

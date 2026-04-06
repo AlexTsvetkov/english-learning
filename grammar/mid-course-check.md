@@ -50,12 +50,12 @@
 
 ### Section B: Error Correction
 
-1. ❌ ~~I have went through a very difficult period last year.~~
-2. ❌ ~~She suggested me to try mindfulness meditation.~~
-3. ❌ ~~If I would know about attachment styles, I would understand myself better.~~
-4. ❌ ~~He mustn't be happy in that relationship.~~
-5. ❌ ~~It is widely believed, that resilience can be developed.~~
-6. ❌ ~~She denied that she wasn't feeling anxious.~~
+1. ❌ I have went through a very difficult period last year.
+2. ❌ She suggested me to try mindfulness meditation.
+3. ❌ If I would know about attachment styles, I would understand myself better.
+4. ❌ He mustn't be happy in that relationship.
+5. ❌ It is widely believed, that resilience can be developed.
+6. ❌ She denied that she wasn't feeling anxious.
 
 <details><summary>✅ Answers</summary>
 

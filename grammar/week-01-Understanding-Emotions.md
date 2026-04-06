@@ -59,25 +59,25 @@ At B2, you learned that stative verbs (know, believe, understand, etc.) don't go
 
 | Stative (state) | Active/Dynamic (process) |
 |-----------------|--------------------------|
-| I **think** this is important. *(opinion)* | I**'m thinking** about what you said. *(mental process)* |
-| She **has** a good therapist. *(possession)* | She**'s having** a difficult session. *(experiencing)* |
-| I **see** what you mean. *(understand)* | I**'m seeing** a therapist twice a week. *(meeting regularly)* |
-| This **tastes** bitter. *(characteristic)* | She**'s tasting** the medicine. *(deliberate action)* |
-| He **appears** confident. *(seems)* | He**'s appearing** in court tomorrow. *(scheduled event)* |
-| I **feel** this is wrong. *(opinion)* | I**'m feeling** much better today. *(changing state)* |
+| I **think** this is important. *(opinion)* | I'm **thinking** about what you said. *(mental process)* |
+| She **has** a good therapist. *(possession)* | She's **having** a difficult session. *(experiencing)* |
+| I **see** what you mean. *(understand)* | I'm **seeing** a therapist twice a week. *(meeting regularly)* |
+| This **tastes** bitter. *(characteristic)* | She's **tasting** the medicine. *(deliberate action)* |
+| He **appears** confident. *(seems)* | He's **appearing** in court tomorrow. *(scheduled event)* |
+| I **feel** this is wrong. *(opinion)* | I'm **feeling** much better today. *(changing state)* |
 
 ### Advanced: Stative Verbs in Continuous for Emphasis/Temporariness
 
 In modern English, some traditionally stative verbs ARE used in continuous to show a **temporary, intense, or changing state**. This is C1-level awareness:
 
-- *I**'m loving** this book.* ✅ (emphasis on current enthusiasm — informal)
-- *She**'s understanding** more about herself every day.* ✅ (gradual process)
-- *I**'m not believing** this!* ✅ (emotional emphasis — very informal)
-- *He**'s being** very defensive today.* ✅ (temporary behavior, not permanent trait)
+- *I'm **loving** this book.* ✅ (emphasis on current enthusiasm — informal)
+- *She's **understanding** more about herself every day.* ✅ (gradual process)
+- *I'm **not believing** this!* ✅ (emotional emphasis — very informal)
+- *He's **being** very defensive today.* ✅ (temporary behavior, not permanent trait)
 
 Compare:
-- *He **is** defensive.* (personality trait — always)
-- *He **is being** defensive.* (behaving this way right now — temporary)
+- He **is** defensive. (personality trait — always)
+- He **is being** defensive. (behaving this way right now — temporary)
 
 ---
 
@@ -88,7 +88,7 @@ Both describe past habits, but they're NOT interchangeable:
 | | used to | would |
 |---|---------|-------|
 | Past habits/repeated actions | ✅ I **used to** journal every morning. | ✅ I **would** journal every morning. |
-| Past states | ✅ I **used to** be anxious. | ❌ ~~I would be anxious.~~ |
+| Past states | ✅ I **used to** be anxious. | ❌ I would be anxious. |
 | First mention in narrative | ✅ Better for introducing | ❌ Feels abrupt without context |
 
 **Rule:** "Would" for repeated past **actions** only (not states). "Used to" for both actions and states.
@@ -104,11 +104,11 @@ Both describe past habits, but they're NOT interchangeable:
 
 | Mistake | Why | Correct |
 |---------|-----|---------|
-| ~~She was suppressing her emotions for years before therapy.~~ | Extended prior action needs Past Perfect Continuous | She **had been suppressing** her emotions for years. |
-| ~~I would be very shy as a child.~~ | "Would" can't be used with states | I **used to be** very shy as a child. |
-| ~~He is being intelligent.~~ | "Being" implies temporary behavior, not permanent traits | He **is** intelligent. (trait) |
-| ~~I already have told you.~~ | Word order with adverbs in perfect tenses | I **have already told** you. |
-| ~~When I was arriving, she was already left.~~ | "Arrive" is a momentary action (no continuous); "already left" needs Perfect | When I **arrived**, she **had already left**. |
+| ❌ She was suppressing her emotions for years before therapy. | Extended prior action needs Past Perfect Continuous | She **had been suppressing** her emotions for years. |
+| ❌ I would be very shy as a child. | "Would" can't be used with states | I **used to be** very shy as a child. |
+| ❌ He is being intelligent. | "Being" implies temporary behavior, not permanent traits | He **is** intelligent. (trait) |
+| ❌ I already have told you. | Word order with adverbs in perfect tenses | I **have already told** you. |
+| ❌ When I was arriving, she was already left. | "Arrive" is a momentary action (no continuous); "already left" needs Perfect | When I **arrived**, she **had already left**. |
 
 ---
 

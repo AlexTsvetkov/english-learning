@@ -52,9 +52,9 @@ Imagining a different outcome for a past situation. Expressing regret, reflectin
 
 | Mistake | Why | Correct |
 |---------|-----|---------|
-| ~~If I would know, I would tell you.~~ | Russian uses «бы» in both clauses; English uses "would" ONLY in the result clause | If I **knew**, I would tell you. |
-| ~~If she would have listened...~~ | Same error with Third Conditional | If she **had listened**... |
-| ~~If I didn't meet him, my life was different.~~ | Missing "would" + wrong tense | If I **hadn't met** him, my life **would have been** different. |
+| ❌ If I would know, I would tell you. | Russian uses «бы» in both clauses; English uses "would" ONLY in the result clause | If I **knew**, I would tell you. |
+| ❌ If she would have listened... | Same error with Third Conditional | If she **had listened**... |
+| ❌ If I didn't meet him, my life was different. | Missing "would" + wrong tense | If I **hadn't met** him, my life **would have been** different. |
 
 ---
 
@@ -135,11 +135,11 @@ Complete with mixed conditional forms:
 
 ### Exercise 3: Error Correction
 
-1. ❌ ~~If I would be more patient, my relationships would be better.~~
-2. ❌ ~~If she would have set boundaries, she wouldn't burned out.~~
-3. ❌ ~~If I knew about attachment theory earlier, I would understand my patterns better now.~~
-4. ❌ ~~If he didn't grew up with criticism, he would be more confident.~~
-5. ❌ ~~If they would communicate honestly, they might still be together.~~
+1. ❌ If I would be more patient, my relationships would be better.
+2. ❌ If she would have set boundaries, she wouldn't burned out.
+3. ❌ If I knew about attachment theory earlier, I would understand my patterns better now.
+4. ❌ If he didn't grew up with criticism, he would be more confident.
+5. ❌ If they would communicate honestly, they might still be together.
 
 <details>
 <summary>✅ Answers</summary>

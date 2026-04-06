@@ -92,11 +92,11 @@ Some verbs are followed by gerunds, some by infinitives, and some by both (with 
 
 | Mistake | Why | Correct |
 |---------|-----|---------|
-| ~~I enjoy to run.~~ | "enjoy" always takes -ing | I enjoy **running**. |
-| ~~She suggested to try yoga.~~ | "suggest" takes -ing or that-clause | She suggested **trying** yoga. |
-| ~~I want that he changes.~~ | Russian uses «чтобы»; English uses object + infinitive | I want **him to change**. |
-| ~~I'm interested to learn.~~ | "interested in" + -ing | I'm interested **in learning**. |
-| ~~He avoided to talk about it.~~ | "avoid" takes -ing | He avoided **talking** about it. |
+| ❌ I enjoy to run. | "enjoy" always takes -ing | I enjoy **running**. |
+| ❌ She suggested to try yoga. | "suggest" takes -ing or that-clause | She suggested **trying** yoga. |
+| ❌ I want that he changes. | Russian uses «чтобы»; English uses object + infinitive | I want **him to change**. |
+| ❌ I'm interested to learn. | "interested in" + -ing | I'm interested **in learning**. |
+| ❌ He avoided to talk about it. | "avoid" takes -ing | He avoided **talking** about it. |
 
 ---
 
@@ -143,12 +143,12 @@ Choose the correct form and explain the meaning:
 
 ### Exercise 3: Error Correction
 
-1. ❌ ~~She suggested me to try a new routine.~~
-2. ❌ ~~I enjoy to read about psychology before bed.~~
-3. ❌ ~~He wants that I change my habits.~~
-4. ❌ ~~I'm tired to wait for motivation.~~
-5. ❌ ~~She succeeded to quit smoking.~~
-6. ❌ ~~He avoids to discuss his lack of discipline.~~
+1. ❌ She suggested me to try a new routine.
+2. ❌ I enjoy to read about psychology before bed.
+3. ❌ He wants that I change my habits.
+4. ❌ I'm tired to wait for motivation.
+5. ❌ She succeeded to quit smoking.
+6. ❌ He avoids to discuss his lack of discipline.
 
 <details><summary>✅ Answers</summary>
 1. She suggested **trying** a new routine. / She suggested **that I try**...

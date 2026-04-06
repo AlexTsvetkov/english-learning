@@ -44,7 +44,7 @@ Wishing someone else would change their behavior:
 | If only + sb + would | **If only she would try** therapy. | She won't try it. |
 
 **Important:** Don't use "I wish I would..." Use "I wish I could..." instead.
-- ❌ ~~I wish I would stop worrying.~~
+- ❌ I wish I would stop worrying.
 - ✅ I wish I **could** stop worrying.
 
 ---
@@ -96,11 +96,11 @@ Used when you want someone else to do something:
 
 | Mistake | Correct |
 |---------|---------|
-| ❌ ~~I wish I can change.~~ | I wish I **could** change. |
-| ❌ ~~I wish I would go to therapy.~~ | I wish I **could/would** go... (usually "could") |
-| ❌ ~~If only I knew it before.~~ (past meaning) | If only I **had known** it before. |
-| ❌ ~~It's time to I started therapy.~~ | It's time I **started** therapy. (no "to") |
-| ❌ ~~I'd rather you don't come.~~ | I'd rather you **didn't** come. |
+| ❌ I wish I can change. | I wish I **could** change. |
+| ❌ I wish I would go to therapy. | I wish I **could/would** go... (usually "could") |
+| ❌ If only I knew it before. (past meaning) | If only I **had known** it before. |
+| ❌ It's time to I started therapy. | It's time I **started** therapy. (no "to") |
+| ❌ I'd rather you don't come. | I'd rather you **didn't** come. |
 
 ---
 

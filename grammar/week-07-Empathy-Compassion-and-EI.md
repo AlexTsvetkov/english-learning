@@ -72,10 +72,10 @@ You can shorten relative clauses by removing the pronoun + auxiliary:
 
 | Mistake | Why | Correct |
 |---------|-----|---------|
-| ~~The person which helped me...~~ | "which" is for things, not people | The person **who** helped me... |
-| ~~My friend, that is very empathetic...~~ | Can't use "that" in non-defining | My friend, **who** is very empathetic... |
-| ~~The reason because I feel this way...~~ | "because" ≠ "why" after "reason" | The reason **why** I feel... / The reason I feel... |
-| ~~People, who practice mindfulness, are calmer.~~ | Defining clause shouldn't have commas (if you mean "those specific people") | People who practice mindfulness are calmer. |
+| ❌ The person which helped me... | "which" is for things, not people | The person **who** helped me... |
+| ❌ My friend, that is very empathetic... | Can't use "that" in non-defining | My friend, **who** is very empathetic... |
+| ❌ The reason because I feel this way... | "because" ≠ "why" after "reason" | The reason **why** I feel... / The reason I feel... |
+| ❌ People, who practice mindfulness, are calmer. | Defining clause shouldn't have commas (if you mean "those specific people") | People who practice mindfulness are calmer. |
 
 ---
 

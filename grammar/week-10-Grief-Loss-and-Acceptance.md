@@ -65,7 +65,7 @@ Participle clauses use **-ing** (present participle), **-ed/past participle**, o
 ### 1. Same subject
 The subject of the participle clause MUST be the same as the main clause:
 - ✅ **Feeling** lonely, **she** called a friend. (she felt → she called)
-- ❌ ~~**Feeling** lonely, **the phone** rang.~~ (the phone didn't feel lonely!)
+- ❌ **Feeling** lonely, **the phone** rang. (the phone didn't feel lonely!)
 
 This is called a **dangling participle** — a common error even native speakers make.
 
@@ -83,9 +83,9 @@ Participle clauses are more common in **written, formal** English. In speech, us
 
 | Mistake | Why | Correct |
 |---------|-----|---------|
-| ~~Walking through the cemetery, the memories came flooding back.~~ | Dangling participle (memories weren't walking) | **Walking** through the cemetery, **she** found memories flooding back. |
-| ~~Having lost his wife, his friends tried to help.~~ | Dangling (friends didn't lose the wife) | **Having lost** his wife, **he** received support from friends. |
-| ~~Being a difficult time, she needed support.~~ | "A difficult time" can't "be" the subject naturally | **It being** a difficult time, she needed support. (rare) OR: **As it was** a difficult time, she needed support. |
+| ❌ Walking through the cemetery, the memories came flooding back. | Dangling participle (memories weren't walking) | **Walking** through the cemetery, **she** found memories flooding back. |
+| ❌ Having lost his wife, his friends tried to help. | Dangling (friends didn't lose the wife) | **Having lost** his wife, **he** received support from friends. |
+| ❌ Being a difficult time, she needed support. | "A difficult time" can't "be" the subject naturally | **It being** a difficult time, she needed support. (rare) OR: **As it was** a difficult time, she needed support. |
 
 ---
 

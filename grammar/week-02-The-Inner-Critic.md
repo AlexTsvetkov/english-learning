@@ -94,11 +94,11 @@ At B2+ level, you need to use precise reporting verbs that convey HOW something 
 
 | Mistake | Correct |
 |---------|---------|
-| ~~He suggested me to try meditation.~~ | He suggested **trying** meditation. / He suggested **that I try** meditation. |
-| ~~She denied that she was not sad.~~ | She denied **being** sad. / She denied **that she was** sad. |
-| ~~He said me that...~~ | He **told** me that... |
-| ~~She insisted to go.~~ | She insisted **on going**. |
-| ~~He convinced me that to go.~~ | He convinced me **to go**. |
+| ❌ He suggested me to try meditation. | He suggested **trying** meditation. / He suggested **that I try** meditation. |
+| ❌ She denied that she was not sad. | She denied **being** sad. / She denied **that she was** sad. |
+| ❌ He said me that... | He **told** me that... |
+| ❌ She insisted to go. | She insisted **on going**. |
+| ❌ He convinced me that to go. | He convinced me **to go**. |
 
 ---
 
@@ -162,12 +162,12 @@ Fill in with the most appropriate verb: *claimed, denied, admitted, insisted, su
 
 Find and fix the mistakes:
 
-1. ❌ ~~She suggested me to see a therapist.~~
-2. ❌ ~~He denied that he wasn't jealous.~~
-3. ❌ ~~The therapist said me that self-criticism is normal.~~
-4. ❌ ~~She insisted to come to the session alone.~~
-5. ❌ ~~He convinced me that I should to take a break.~~
-6. ❌ ~~She blamed herself for that she failed.~~
+1. ❌ She suggested me to see a therapist.
+2. ❌ He denied that he wasn't jealous.
+3. ❌ The therapist said me that self-criticism is normal.
+4. ❌ She insisted to come to the session alone.
+5. ❌ He convinced me that I should to take a break.
+6. ❌ She blamed herself for that she failed.
 
 <details>
 <summary>✅ Answers</summary>

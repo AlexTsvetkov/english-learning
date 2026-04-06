@@ -18,24 +18,24 @@ Even at C1, articles remain tricky. Key rules to internalize:
 
 | Rule | Example | Common Mistake |
 |------|---------|---------------|
-| **The** with unique/specific things | **The** unconscious mind plays a role. | ~~Unconscious mind plays a role.~~ |
-| **No article** with abstract uncountable nouns (general) | **Happiness** is subjective. | ~~**The** happiness is subjective.~~ |
-| **A/An** for first mention; **The** for subsequent | She has **a** therapist. **The** therapist uses CBT. | ~~She has **the** therapist.~~ (first mention) |
-| **The** + superlative | **The** most important thing is self-awareness. | ~~Most important thing...~~ |
-| **No article** + proper nouns / concepts | **Maslow's** hierarchy; **CBT**; **Post-traumatic growth** | ~~**The** Maslow's hierarchy~~ |
+| **The** with unique/specific things | **The** unconscious mind plays a role. | ❌ Unconscious mind plays a role. |
+| **No article** with abstract uncountable nouns (general) | **Happiness** is subjective. | ❌ **The** happiness is subjective. |
+| **A/An** for first mention; **The** for subsequent | She has **a** therapist. **The** therapist uses CBT. | ❌ She has **the** therapist. (first mention) |
+| **The** + superlative | **The** most important thing is self-awareness. | ❌ Most important thing... |
+| **No article** + proper nouns / concepts | **Maslow's** hierarchy; **CBT**; **Post-traumatic growth** | ❌ **The** Maslow's hierarchy |
 
 ### Prepositions
 
 | Correct | Common Mistake |
 |---------|---------------|
-| interested **in** | ~~interested **of/about**~~ |
-| depend **on** | ~~depend **from**~~ |
-| consist **of** | ~~consist **from**~~ |
-| result **in** (cause an effect) | ~~result **to**~~ |
-| result **from** (be caused by) | ~~result **of**~~ |
-| cope **with** | ~~cope **with** is correct ✅~~ |
-| succeed **in** + -ing | ~~succeed **to**~~ |
-| apologize **for** + -ing | ~~apologize **about**~~ |
+| interested **in** | ❌ interested **of/about** |
+| depend **on** | ❌ depend **from** |
+| consist **of** | ❌ consist **from** |
+| result **in** (cause an effect) | ❌ result **to** |
+| result **from** (be caused by) | ❌ result **of** |
+| cope **with** | cope **with** is correct ✅ |
+| succeed **in** + -ing | ❌ succeed **to** |
+| apologize **for** + -ing | ❌ apologize **about** |
 
 ### Word Order in Complex Sentences
 

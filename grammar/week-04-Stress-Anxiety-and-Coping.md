@@ -37,7 +37,7 @@ When we're not sure about something, we use modal verbs to express different deg
 
 2. **"Can't" for negative deduction**
    - He **can't** be happy in that situation. (= I'm almost certain he's NOT happy)
-   - NOT ~~"He mustn't be happy"~~ (mustn't = prohibition, not deduction)
+   - NOT "He mustn't be happy" ❌ (mustn't = prohibition, not deduction)
 
 3. **Russian comparison:** Russian uses «наверное», «должно быть», «вряд ли» — these map roughly to might/may, must, can't.
 
@@ -65,11 +65,11 @@ When we're not sure about something, we use modal verbs to express different deg
 
 | Mistake | Why | Correct |
 |---------|-----|---------|
-| ~~She must to be stressed.~~ | Modal verbs don't use "to" | She must **be** stressed. |
-| ~~He must not be happy.~~ (meaning deduction) | "must not" = prohibition in English | He **can't be** happy. |
-| ~~She should have been stressed.~~ (meaning "probably was") | "should have" = it was a good idea, not deduction | She **must have been** stressed. |
-| ~~He could be stressed yesterday.~~ | Past speculation needs "have" | He **could have been** stressed yesterday. |
-| ~~They can have known about it.~~ | "Can" isn't used for past speculation (only "could") | They **could/might have known** about it. |
+| ❌ She must to be stressed. | Modal verbs don't use "to" | She must **be** stressed. |
+| ❌ He must not be happy. (meaning deduction) | "must not" = prohibition in English | He **can't be** happy. |
+| ❌ She should have been stressed. (meaning "probably was") | "should have" = it was a good idea, not deduction | She **must have been** stressed. |
+| ❌ He could be stressed yesterday. | Past speculation needs "have" | He **could have been** stressed yesterday. |
+| ❌ They can have known about it. | "Can" isn't used for past speculation (only "could") | They **could/might have known** about it. |
 
 ---
 
@@ -119,11 +119,11 @@ Complete with the correct form:
 
 ### Exercise 3: Error Correction
 
-1. ❌ ~~She must to be very anxious about the interview.~~
-2. ❌ ~~He mustn't be happy — look at his face.~~
-3. ❌ ~~They should have been stressed during the exam.~~ (meaning: they were probably stressed)
-4. ❌ ~~She can have forgotten about the appointment.~~
-5. ❌ ~~He could be worried yesterday about his results.~~
+1. ❌ She must to be very anxious about the interview.
+2. ❌ He mustn't be happy — look at his face.
+3. ❌ They should have been stressed during the exam. (meaning: they were probably stressed)
+4. ❌ She can have forgotten about the appointment.
+5. ❌ He could be worried yesterday about his results.
 
 <details>
 <summary>✅ Answers</summary>
