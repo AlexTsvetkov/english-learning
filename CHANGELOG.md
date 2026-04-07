@@ -7,6 +7,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Added
+- Completed `reading/` section — all 12 weeks of reading articles with original long-form texts, vocabulary glossaries with Russian translations, and discussion questions
+
+### Fixed
+- Fixed typos in `notes.md` (revierw → review, foprmatting → formatting, senetnces → sentences)
+
+## [1.2.0] — 2026-04-07
+
+### Added
 - `CLAUDE.md` — project instructions for AI assistants
 
 ### Fixed
