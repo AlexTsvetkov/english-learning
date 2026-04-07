@@ -5,16 +5,16 @@ Track your progress by checking off each module as you complete it.
 ---
 
 ## Week 1 — Understanding Emotions
-- [ ] ✅ **Week 1 complete**
-- [ ] 📘 Grammar: Narrative tenses & advanced aspect
-- [ ] 📗 Vocabulary: Core emotions, feeling words
-- [ ] 📖 Reading: "The Day I Learned to Name My Feelings"
+- [x] ✅ **Week 1 complete**
+- [x] 📘 Grammar: Narrative tenses & advanced aspect
+- [x] 📗 Vocabulary: Core emotions, feeling words
+- [x] 📖 Reading: "The Day I Learned to Name My Feelings"
 - [ ] 📙 Writing: Essay structure & thesis statements
 
 ## Week 2 — The Inner Critic
 - [ ] ✅ **Week 2 complete**
-- [ ] 📘 Grammar: Advanced reported speech & reporting verbs
-- [ ] 📗 Vocabulary: Cognitive distortions, self-talk
+- [x] 📘 Grammar: Advanced reported speech & reporting verbs
+- [x] 📗 Vocabulary: Cognitive distortions, self-talk
 - [ ] 📖 Reading: Week 2 article
 - [ ] 📙 Writing: Paragraph structure
 
