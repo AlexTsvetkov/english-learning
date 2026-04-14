@@ -269,7 +269,62 @@ Find and fix the mistakes:
 5. **Emotionally exhausted**, he couldn't make decisions. *(past participle — passive meaning)*
 </details>
 
-### Exercise 5: Contextual Writing
+### Exercise 5: Same Verb — Present Participle or Past Participle?
+
+Complete each pair of sentences using the same verb, once as a **present participle** (-ing) and once as a **past participle** (-ed / V3).
+
+**Example:** (encourage)
+- a) **Encouraging** her daughter to speak up, the mother smiled warmly.
+- b) **Encouraged** by the positive feedback, she signed up for another course.
+
+1. **(overwhelm)**
+   - a) _____________ by the amount of work, he asked for help.
+   - b) _____________ her with questions, they didn't notice she was crying.
+
+2. **(exhaust)**
+   - a) _____________ from months of caregiving, she finally took a day off.
+   - b) _____________ every possible option, the team decided to try a completely new approach.
+
+3. **(surprise)**
+   - a) _____________ by his own reaction, he sat in silence for a moment.
+   - b) _____________ everyone at the meeting, she announced her resignation.
+
+4. **(isolate)**
+   - a) _____________ from friends and family, he sank deeper into depression.
+   - b) _____________ herself from toxic people, she began to feel lighter.
+
+5. **(motivate)**
+   - a) _____________ by her therapist's words, she started journaling every day.
+   - b) _____________ others through his story, he found a new sense of purpose.
+
+6. **(confuse)**
+   - a) _____________ by the conflicting advice, she didn't know what to do.
+   - b) _____________ his emotions with facts, he often made poor decisions.
+
+7. **(inspire)**
+   - a) _____________ by the recovery stories she read, Maria felt hopeful.
+   - b) _____________ her patients with compassion and honesty, Dr. Reeves built deep trust.
+
+8. **(shake)**
+   - a) _____________ by the unexpected diagnosis, they sought a second opinion.
+   - b) _____________ her head in disbelief, she walked out of the room.
+
+<details>
+<summary>✅ Answers</summary>
+
+1. a) **Overwhelmed** (past participle — he was overwhelmed) / b) **Overwhelming** (present participle — they were overwhelming her)
+2. a) **Exhausted** (past participle — she was exhausted) / b) **Having exhausted** or **Exhausting** (present participle — the team exhausted every option)
+3. a) **Surprised** (past participle — he was surprised) / b) **Surprising** (present participle — she surprised everyone)
+4. a) **Isolated** (past participle — he was isolated) / b) **Isolating** (present participle — she isolated herself)
+5. a) **Motivated** (past participle — she was motivated) / b) **Motivating** (present participle — he motivated others)
+6. a) **Confused** (past participle — she was confused) / b) **Confusing** (present participle — he confused his emotions)
+7. a) **Inspired** (past participle — Maria was inspired) / b) **Inspiring** (present participle — Dr. Reeves inspired her patients)
+8. a) **Shaken** (past participle — they were shaken) / b) **Shaking** (present participle — she shook her head)
+</details>
+
+---
+
+### Exercise 6: Contextual Writing
 
 **Write a short paragraph (5–7 sentences) about someone's emotional journey**, using at least **4 different types** of participle clauses. You might write about:
 
